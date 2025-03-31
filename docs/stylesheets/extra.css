@@ -225,6 +225,7 @@ h6 {
 /* Always show the logo, even on mobile */
 .md-header__button.md-logo {
   display: flex !important;
+  margin-left: auto;
   align-items: center;
 }
 
@@ -525,9 +526,9 @@ section.team-member>div {
 .event-posts .md-post--excerpt {
   display: flex;
   flex-direction: row;
-  gap: 4rem;
-  align-items: flex-start; /* Default */
-  padding: 2rem;
+  gap: 2rem;
+  align-items: flex-start;
+  padding: 1rem;
 }
 
 .event-date {
@@ -542,9 +543,7 @@ section.team-member>div {
 }
 
 .event-info {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+  width: 600px;
 }
 
 .event-info h2 {
@@ -554,7 +553,6 @@ section.team-member>div {
   font-family: 'Geist Mono', monospace;
   font-size: 1.25rem;
 }
-
 
 .event-info p {
   font-size: .8rem;
