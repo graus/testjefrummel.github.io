@@ -225,7 +225,6 @@ h6 {
 /* Always show the logo, even on mobile */
 .md-header__button.md-logo {
   display: flex !important;
-  margin-left: auto;
   align-items: center;
 }
 
@@ -237,6 +236,7 @@ h6 {
 @media screen and (max-width: 800px) {
   .md-header__button[for="__drawer"] {
     display: flex !important;
+    margin-left: auto;
     align-items: center;
   }
 
