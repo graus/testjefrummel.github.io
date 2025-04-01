@@ -1,5 +1,8 @@
 ---
 template: narrow.html
+title: OpenGov Lab – AI for Government Transparency
+description: The OpenGov Lab is an ICAI research lab improving interpretation, retrieval, and use of open government data. A collaboration between UvA and RvIHH.
+image: assets/images/logo-social.jpg
 ---
 
 <style>
