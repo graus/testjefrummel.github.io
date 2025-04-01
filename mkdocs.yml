@@ -1,5 +1,5 @@
 site_name: OpenGov.nl
-site_url: https://opengov.nl
+site_url: https://graus.github.io/testjefrummel.github.io
 theme:
   name: material
   custom_dir: overrides

@@ -1,3 +1,9 @@
+---
+title: Team
+description: See the overview of partners that collaborate in the ICAI OpenGov Lab. 
+template: narrow.html
+---
+
 <div class="partner-logos" markdown>
 
 ![Image title](assets/logo/uvalogo_regular_compact_p_en.svg#only-light)
