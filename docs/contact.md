@@ -1,5 +1,7 @@
 ---
 title: Contact
+description: Get in touch with the OpenGov Lab – contact information, address and social profiles.
+image: assets/images/logo-social.jpg
 template: narrow.html
 ---
 

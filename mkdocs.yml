@@ -11,6 +11,7 @@ theme:
     - navigation.indexes
     - search.suggest
     - search.highlight
+  # logo: assets/images/icon.svg
   favicon: assets/images/icon.svg
   palette:
     - scheme: default
@@ -75,18 +76,6 @@ markdown_extensions:
       custom_checkbox: true
   - abbr
   - attr_list
-
-extra:
-  social:
-    - icon: github 
-      link: https://github.com/opengov-lab/
-    - icon: icai 
-      link: https://www.icai.ai/labs/icai-opengov-lab
-    - icon: bluesky 
-      link: https://bsky.app/profile/opengov.nl
-    - icon: linkedin 
-      link: https://www.linkedin.com/company/opengov-lab
-  generator: false
 nav:
   - Team: team.md
   - Partners: partners.md
@@ -95,3 +84,19 @@ nav:
   - Resources: resources.md
   - Papers: publications.md
   - Contact: contact.md
+extra:
+  generator: false
+  social:
+    image: assets/images/logo-social.jpg
+    cards:
+      site_name: OpenGov.nl
+      site_url: https://graus.github.io/testjefrummel.github.io
+  social:
+    - icon: github
+      link: https://github.com/opengov-lab/
+    - icon: icai
+      link: https://www.icai.ai/labs/icai-opengov-lab
+    - icon: bluesky
+      link: https://bsky.app/profile/opengov.nl
+    - icon: linkedin
+      link: https://www.linkedin.com/company/opengov-lab
