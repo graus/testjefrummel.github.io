@@ -1,6 +1,6 @@
 <section class="team-member" markdown>
 <div class="team-member__info" markdown>
-## Dr. David Graus
+## David Graus
 
 Lab Manager  
 [graus@opengov.nl](mailto:graus@opengov.nl)  
@@ -8,7 +8,7 @@ Lab Manager
 </div>
 
 <div class="team-member__image" markdown>
-![David Graus](assets/images/david.jpg "David Graus")
+![David Graus](assets/images/team/david.jpg "David Graus")
 </div>
 
 <div class="team-member__bio" markdown>
@@ -19,7 +19,7 @@ I’m an assistant professor in Information Retrieval and Natural Language Proce
 
 <section class="team-member" markdown>
 <div class="team-member__info" markdown>
-## Dr. ir. Jaap Kamps
+## Jaap Kamps
 
 Lab Co-Director  
 [kamps@opengov.nl](mailto:kamps@opengov.nl)  
@@ -27,7 +27,7 @@ Lab Co-Director
 </div>
 
 <div class="team-member__image" markdown>
-![Jaap Kamps](assets/images/jaap.jpg "Jaap Kamps")
+![Jaap Kamps](assets/images/team/jaap.jpg "Jaap Kamps")
 </div>
 
 <div class="team-member__bio" markdown>
@@ -37,14 +37,14 @@ I am associate professor of Information Retrieval at the Faculty of Humanities. 
 
 <section class="team-member" markdown>
 <div class="team-member__info" markdown>
-## Dr. Maarten Marx
+## Maarten Marx
 
 Lab Co-Director  
 [marx@opengov.nl](mailto:marx@opengov.nl)
 </div>
 
 <div class="team-member__image" markdown>
-![Maarten Marx](assets/images/maarten.jpg "Maarten Marx")
+![Maarten Marx](assets/images/team/maarten.jpg "Maarten Marx")
 </div>
 
 <div class="team-member__bio" markdown>
@@ -55,15 +55,16 @@ I am an assistant professor at the IRLab at the University of Amsterdam.
 
 <section class="team-member" markdown>
 <div class="team-member__info" markdown>
-## Damiaan Reijnaers, MSc
+## Damiaan Reijnaers
 
 PhD Student  
-[reijnaers@opengov.nl](mailto:reijnaers@opengov.nl)
-
+[reijnaers@opengov.nl](mailto:reijnaers@opengov.nl)  
+[damiaan.nl](https://damiaan.nl)
 </div>
 
 <div class="team-member__image" markdown>
-![Damiaan Reijnaers](assets/images/damiaan.jpg "Damiaan Reijnaers")
+![Damiaan Reijnaers](assets/images/team/damiaan.jpg "Damiaan Reijnaers")
+
 </div>
 
 <div class="team-member__bio" markdown>
@@ -74,7 +75,7 @@ I'm a PhD candidate at the ICAI OpenGov Lab, focusing on explainable document re
 
 <section class="team-member" markdown>
 <div class="team-member__info" markdown>
-## Lisa Winters, MA
+## Lisa Winters
 
 PhD Student  
 [winters@opengov.nl](mailto:winters@opengov.nl)
@@ -82,7 +83,7 @@ PhD Student
 </div>
 
 <div class="team-member__image" markdown>
-![Lisa Winters](assets/images/lisa.jpg "Lisa Winters")
+![Lisa Winters](assets/images/team/lisa.jpg "Lisa Winters")
 </div>
 
 <div class="team-member__bio" markdown>

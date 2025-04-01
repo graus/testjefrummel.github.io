@@ -1,18 +1,35 @@
+docs/contact.md
 ---
 title: Contact
 template: narrow.html
 ---
 
-## Get in touch
-email: [graus@opengov.nl](mailto:graus@opengov.nl)
+## :material-email-outline: Get in touch
 
-## Visit us
+We’d love to hear from you — whether you have a question, an idea, or just want to say hi.
+
+:material-mail: [graus@opengov.nl](mailto:graus@opengov.nl)
+
+---
+
+## :material-map-marker: Visit us
+
+Come by our office at Lab42.
+
 **Office L6.27**  
-Lab 42  
+Lab42  
 Science Park 900  
 1098 XH Amsterdam  
 The Netherlands
 
-## Follow us
-On Bluesky: [opengov.nl](https://bsky.app/profile/opengov.nl)  
-On LinkedIn: [company/opengov-lab](https://www.linkedin.com/company/opengov-lab)  
+:material-map-marker: [Google Maps](https://g.co/kgs/ZWvMxQG)
+
+---
+
+## :material-account-group-outline: Follow us
+
+Stay up to date with lab news, publications, and events:
+
+:simple-bluesky:[/profile/opengov.nl](https://bsky.app/profile/opengov.nl) on Bluesky  
+:fontawesome-brands-linkedin:[/company/opengov-lab](https://www.linkedin.com/company/opengov-lab) on LinkedIn  
+:fontawesome-brands-github:[/opengov-lab](https://github.com/opengov-lab/) on GitHub
