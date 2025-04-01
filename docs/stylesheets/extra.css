@@ -123,15 +123,17 @@ h6 {
 }
 
 .md-tabs__list {
-  display: flex;
   gap: 1rem;
   list-style: none;
   margin: 0;
   padding: 0;
+  align-items: center;  /* ✅ This vertically centers children */
+  justify-content: center; /* or flex-end if you prefer */
+  height: 100%; /* ✅ optional: ensure it fills the header height */
 }
 
 .md-tabs__item {
-  height: 3rem;
+  height: auto;
 }
 
 .md-tabs__item a {
@@ -150,6 +152,7 @@ h6 {
 
 .md-tabs__link {
   opacity: 1;
+  margin-top: 0;
 }
 
 .md-header__button.md-logo {
@@ -160,7 +163,7 @@ h6 {
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   height: 3rem;
-  padding: .4rem;
+  padding: .3rem;
   background-color: var(--md-accent-fg-color);
 }
 
@@ -207,6 +210,10 @@ h6 {
   fill: var(--md-default-bg-color);
 }
 
+.md-top svg {
+  fill: var(--md-default-fg-color);
+}
+
 .md-footer,
 .md-footer-meta {
   background-color: var(--md-primary-fg-color);
@@ -228,10 +235,26 @@ h6 {
 }
 
 .md-post {
-  max-width: 960px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 1rem 2rem;
   background-color: var(--md-secondary-bg-color);
+}
+
+.md-post.md-post--excerpt .md-post__header {
+  font-family: 'Geist Mono' monospace;
+  display: block;
+  align-items: unset;
+  gap: 0;
+  min-height: auto;
+  font-size: .8rem;
+  line-height: 1.2rem;
+  color: var(--md-accent-fg-color);
+  margin-bottom: 1rem;
+}
+
+.md-post.md-post--excerpt .md-post__header a {
+  text-decoration: underline;
 }
 
 .team-member:nth-child(odd) {
@@ -298,7 +321,7 @@ section.team-member>div {
 }
 
 /* Stack layout on narrow viewports */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .team-member {
     flex-direction: column;
     text-align: center;
@@ -484,22 +507,30 @@ section.team-member>div {
   gap: 2rem;
   align-items: flex-start;
   padding: 1rem;
+  flex-wrap: wrap;
 }
 
 .event-date {
-  width: 180px;
+  flex: 0 0 160px; /* fixed base, doesn't grow or shrink */
   font-family: 'Geist Mono', monospace;
   font-size: 1.15rem;
   font-weight: 500;
   color: var(--md-accent-fg-color);
   padding-top: 0;
   text-align: left;
-  flex-shrink: 0;
 }
 
 .event-info {
-  width: 600px;
+  flex: 1 1 300px; /* grows to fill space, min 300px */
+  min-width: 0;
 }
+
+@media (max-width: 600px) {
+  .event-posts .md-post--excerpt {
+    gap: 0.1rem; /* subtle vertical spacing */
+  }
+}
+
 
 .event-info h2 {
   margin-top: 0;
