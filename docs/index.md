@@ -32,5 +32,6 @@ Day-to-day operations are led by lab manager Dr. David Graus. Scientific co-dire
 
 ---
 
-:material-email-outline: **Have questions?**  
+### :material-email-outline: Have questions?
+
 Get in touch at [info@opengov.nl](mailto:info@opengov.nl) or [contact us](contact.md).

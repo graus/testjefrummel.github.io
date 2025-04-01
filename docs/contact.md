@@ -1,4 +1,3 @@
-docs/contact.md
 ---
 title: Contact
 template: narrow.html
