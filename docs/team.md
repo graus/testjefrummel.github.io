@@ -1,7 +1,6 @@
 ---
 title: Team
 description: Get to know the team of the ICAI OpenGov Lab.
-template: narrow.html
 ---
 
 <section class="team-member" markdown>
