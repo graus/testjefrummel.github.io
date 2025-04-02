@@ -7,6 +7,6 @@ date:
 
 Join us on May 15th for **Demo Donderdag** with the OpenGov Lab.
 
-📍 **Location**: Nationaal Archief,  
-Prins Willem-Alexanderweg 20, The Hague
+📍 **Location**: Nationaal Archief  
+Prins Willem-Alexanderweg 20, The Hague  
 🕓 **Time**: 16:00–18:30

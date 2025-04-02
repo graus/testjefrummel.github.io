@@ -1,7 +1,6 @@
 ---
 title: Team
 description: See the overview of partners that collaborate in the ICAI OpenGov Lab. 
-template: narrow.html
 ---
 
 <div class="partner-logos" markdown>

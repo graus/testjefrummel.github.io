@@ -584,6 +584,7 @@ section.team-member>div {
   --md-secondary-bg-color: rgba(255, 255, 255, 0.7);
   --md-primary-fg-color: #380504;
   --md-accent-fg-color: #ff2903;
+  --md-secondary-accent-color: #aa1e0d;
 
   --md-default-fg-color: #380504;
   --md-default-fg-color--light: #380504;
@@ -606,6 +607,7 @@ section.team-member>div {
   --md-secondary-bg-color: rgba(0, 0, 0, 0.3);
   --md-primary-fg-color: #c7fafb;
   --md-accent-fg-color: #ff2903;
+  --md-secondary-accent-color: #aa1e0d;
 
   --md-default-fg-color: #c7fafb;
   --md-default-fg-color--light: #c7fafb;
