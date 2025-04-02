@@ -1,4 +1,4 @@
-docs/blog/posts/demo-post-mkdocs-material.md---
+---
 title: Demo Post – All Content Types
 date: 
   created: 2025-01-01
