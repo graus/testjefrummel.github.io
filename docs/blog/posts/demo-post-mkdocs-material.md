@@ -1,7 +1,7 @@
----
+docs/blog/posts/demo-post-mkdocs-material.md---
 title: Demo Post – All Content Types
 date: 
-  created: 2025-04-01
+  created: 2025-01-01
 categories:
   - showcase
 authors:
