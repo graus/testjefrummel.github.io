@@ -13,4 +13,9 @@ description: See the overview of partners that collaborate in the ICAI OpenGov L
 
 ![alt text](assets/logo/rijksoverheid.svg)
 
+![alt text](assets/logo/rijksoverheid.svg)
+
+![alt text](assets/logo/rijksoverheid.svg)
+
+
 </div>
