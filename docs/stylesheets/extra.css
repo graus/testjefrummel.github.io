@@ -52,6 +52,10 @@ a:hover {
   margin: 0 !important;
 }
 
+.md-content__inner:before {
+  height: 0;
+}
+
 .md-main__inner {
   padding: 0;
   margin: 0;
@@ -93,6 +97,7 @@ h6 {
   text-align: center;
   padding: 2rem 0;
   margin: 0;
+  background: var(--md-default-bg-color--light);
 }
 
 .md-typeset h2 {
@@ -328,6 +333,10 @@ section.team-member>div {
   margin-top: 0;
 }
 
+.team-member__info {
+  padding-left: 2rem;
+}
+
 /* Stack layout on narrow viewports */
 @media (max-width: 800px) {
   .team-member {
@@ -419,7 +428,7 @@ section.team-member>div {
   }
 
   .md-nav--primary .md-nav__link {
-    font-family: 'Geist Mono', monospace;
+    font-family: Geist, sans-serif;
     font-size: 1.6rem;
     font-weight: 500;
     color: var(--md-default-bg-color);
@@ -599,9 +608,9 @@ section.team-member>div {
   --md-default-fg-color--lighter: #380504;
   --md-default-fg-color--lightest: #380504;
 
-  --md-default-bg-color--light: #c7fafb;
-  --md-default-bg-color--lighter: #c7fafb;
-  --md-default-bg-color--lightest: #c7fafb;
+  --md-default-bg-color--light: #e6fbfe;
+  --md-default-bg-color--lighter: #e6fbfe;
+  --md-default-bg-color--lightest: #e6fbfe;
 
   --md-code-fg-color: #391c1c;
   --md-code-bg-color: #c7fafb;
