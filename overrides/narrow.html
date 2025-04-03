@@ -1,7 +1,17 @@
 {% extends "main.html" %}
 
 {% block content %}
-  <div class="narrow-page">
-    {{ super() }}
+
+  <!-- Full-width title section -->
+  <div class="narrow-title">
+    <div class="narrow-title__inner">
+      <h1 class="md-title">{{ page.title }}</h1>
+    </div>
   </div>
+
+  <!-- Narrow content area -->
+  <div class="narrow-page">
+    {{ page.content }}
+  </div>
+
 {% endblock %}
