@@ -43,3 +43,21 @@
   </nav>
 </header>
 {% endblock %}
+
+{% block content %}
+
+  {% set title_style = page.meta.title_style or "default" %}
+
+  <!-- Optional: prevent default title from rendering -->
+  <style>
+    .md-typeset > h1:not(.md-title) {
+      display: none;
+    }
+  </style>
+
+  <div class="md-title-wrapper">
+    <h1 class="md-title title-{{ title_style }}">{{ page.title }}</h1>
+  </div>
+
+  {{ super() }}
+{% endblock %}
