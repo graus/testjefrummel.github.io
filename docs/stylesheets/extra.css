@@ -295,18 +295,22 @@ header.md-typeset h1 {
 }
 
 .md-social {
-  padding: .8rem .4rem;
+  padding: .6rem;
   gap: .4rem
 }
 
 .md-social__link svg {
   fill: var(--md-default-bg-color);
-  max-height: 1.2rem;
+  max-height: 1rem;
 }
 
 .md-social__link {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1rem;
+  height: 1rem;
+}
+
+.md-copyright {
+  width: 1rem;
 }
 
 .md-post {
