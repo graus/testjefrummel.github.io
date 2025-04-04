@@ -1,4 +1,4 @@
-docs/index.md---
+---
 template: home.html
 title: ICAI OpenGov Lab – Artificial Intelligence for Open Government
 description: The OpenGov Lab is an ICAI research lab improving interpretation, retrieval, and use of open government data. A collaboration between UvA and RvIHH.
