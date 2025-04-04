@@ -294,9 +294,19 @@ header.md-typeset h1 {
   background-color: var(--md-primary-fg-color);
 }
 
+.md-social {
+  padding: .8rem .4rem;
+  gap: .4rem
+}
+
 .md-social__link svg {
   fill: var(--md-default-bg-color);
-  max-height: 1rem;
+  max-height: 1.2rem;
+}
+
+.md-social__link {
+  width: 1.2rem;
+  height: 1.2rem;
 }
 
 .md-post {
