@@ -11,7 +11,7 @@ theme:
     - navigation.indexes
     - search.suggest
     - search.highlight
-  # logo: assets/images/icon.svg
+#  logo: assets/images/icon.svg
   favicon: assets/images/icon.svg
   palette:
     - scheme: default
@@ -28,7 +28,7 @@ theme:
         name: Switch to light mode
   font:
     text: Geist
-    code: Geist Mono
+    code: Geist Mono Medium
 extra_css:
   - stylesheets/extra.css
 plugins:
