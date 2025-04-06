@@ -11,8 +11,6 @@ We’d love to hear from you — whether you have a question, an idea, or just w
 
 :material-mail: [graus@opengov.nl](mailto:graus@opengov.nl)
 
----
-
 ## :material-map-marker: Visit us
 
 Come by our office at Lab42.
@@ -25,7 +23,6 @@ The Netherlands
 
 :material-map-marker: [Google Maps](https://g.co/kgs/ZWvMxQG)
 
----
 
 ## :material-account-group-outline: Follow us
 
