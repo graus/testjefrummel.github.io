@@ -9,7 +9,7 @@ template: narrow.html
 
 We’d love to hear from you — whether you have a question, an idea, or just want to say hi.
 
-:material-mail: [graus@opengov.nl](mailto:graus@opengov.nl)
+:material-mail: [info@opengov.nl](mailto:info@opengov.nl)
 
 ## :material-map-marker: Visit us
 
