@@ -11,7 +11,7 @@ image: assets/images/logo-social.jpg
   }
 </style>
 
-### Welcome to OpenGov.nl
+## Welcome to OpenGov.nl
 
 Government transparency is central in a democratic society. Increasingly, governments at all levels are required to publish data — both proactively and passively (e.g., through FOIA/Woo requests).  
 

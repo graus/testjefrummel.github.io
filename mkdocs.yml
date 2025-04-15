@@ -77,9 +77,10 @@ markdown_extensions:
   - abbr
   - attr_list
 nav:
+  - About: about.md
   - Team: team.md
   - Partners: partners.md
-  - Blog: blog/index.md
+  - News: blog/index.md
   - Events: events/index.md
   - Papers: publications.md
   - Contact: contact.md
