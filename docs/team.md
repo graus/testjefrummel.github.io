@@ -95,3 +95,21 @@ PhD Student
 I'm a PhD candidate at the ICAI OpenGov Lab, focusing on the information culture gap between government and citizens.
 </div>
 </section>
+
+<section class="team-member" markdown>
+<div class="team-member__info" markdown>
+## Patricia Moeskops
+
+PhD Student  
+[moeskops@opengov.nl](mailto:moeskops@opengov.nl)
+
+</div>
+
+<div class="team-member__image" markdown>
+![Patricia Moeskops](assets/images/team/patricia.jpg "Patricia Moeskops")
+</div>
+
+<div class="team-member__bio" markdown>
+I'm a PhD candidate at the ICAI OpenGov Lab, focusing on desinformation and authoritativeness of open government data.
+</div>
+</section>
