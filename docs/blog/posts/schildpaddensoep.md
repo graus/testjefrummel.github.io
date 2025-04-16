@@ -6,47 +6,43 @@ categories:
 authors:
   - mmarx
   - dgraus
-description: Het rapport 'Schildpaddensoep' laat zien dat ministeries de wettelijke beantwoordingstermijnen voor Woo-verzoeken niet halen, met wachttijden die oplopen tot zes maanden. Gemeenten en provincies tonen aan dat het wél sneller kan.
+description: The report 'Schildpaddensoep' shows that ministries are failing to meet legal response deadlines for Woo requests, with waiting times of up to six months. Municipalities and provinces demonstrate that faster responses are possible.
 image: https://wooverheid.nl/wp-content/uploads/2025/03/img_8948.jpg?w=768
-title: Rapport Schildpaddensoep over Woo doorlooptijden is uit
+title: Schildpaddensoep Report on Woo Response Times Published
 ---
 
-# Rapport Schildpaddensoep over Woo doorlooptijden is uit
+# Schildpaddensoep Report on Woo Response Times Published
 
-> "Het lukt ministeries nog steeds niet zich te houden aan de maximale wettelijke termijnen voor beantwoording van informatieverzoeken op basis van de Wet open overheid (Woo)."
+> "Ministries are still unable to meet the legal maximum deadlines for responding to information requests under the Wet open overheid (Woo)."
 
-De gemiddelde termijnen zijn zelfs opnieuw opgelopen — tot ruim een half jaar. Toch is snellere beantwoording **wél mogelijk**, zo laten provincies, waterschappen en gemeenten zien.
+The average response time has even increased — now exceeding half a year. Still, faster handling **is possible**, as provinces, water authorities, and municipalities demonstrate.
 
-![Schildpaddensoep presentatie](https://wooverheid.nl/wp-content/uploads/2025/03/img_8948.jpg?w=768){ loading=lazy }
+![Schildpaddensoep presentation](https://wooverheid.nl/wp-content/uploads/2025/03/img_8948.jpg?w=768){ loading=lazy }
 
 <!-- more -->
 
-## :material-clipboard-text-outline: Analyse en uitkomsten
+## :material-clipboard-text-outline: Analysis and Findings
 
-Dat is de hoofdconclusie van het [:material-file-document: Schildpaddensoep Woo-rapport](https://openstate.eu) dat **Instituut Maatschappelijke Innovatie**, **Open State Foundation** en **Universiteit van Amsterdam** vandaag, 18 maart, uitbrengen. Het rapport analyseert:
+That is the main conclusion of the [:material-file-document: Schildpaddensoep Woo report](https://openstate.eu), released today, March 18, by the **Instituut Maatschappelijke Innovatie**, **Open State Foundation**, and the **University of Amsterdam**. The report analyzes:
 
-- De door de Rijksoverheid en lokale overheden gepubliceerde beantwoorde Woo-verzoeken van afgelopen jaar
-- Voor het eerst: het overleg tussen verzoeker en bestuursorgaan om het verzoek te preciseren — zoals de Woo beoogt
+- The Woo responses published by national and local governments in the past year
+- For the first time: the dialogue between requesters and public bodies to refine requests — as intended by the Woo
 
-> 📰 *"Snellere beantwoording is niet onmogelijk – lokale overheden tonen dat het anders kan."*
+> 📰 *"Faster response times are not impossible – local governments show it can be done differently."*
 
-📖 [Nieuwsbericht Open State Foundation](https://openstate.eu)
+📖 [Open State Foundation news release](https://openstate.eu)
 
----
+## :material-link-variant: Media Coverage
 
-## :material-link-variant: Media
-
-!!! info "Verschillende media over het rapport"
+!!! info "What the media said about the report"
     - [:material-newspaper: Binnenlands Bestuur](https://www.binnenlandsbestuur.nl)
     - [:material-newspaper: iBestuur](https://ibestuur.nl)
     - [:material-television-classic: NOS](https://nos.nl)
     - [:material-newspaper-variant: Volkskrant](https://www.volkskrant.nl)
     - [:material-newspaper: NRC](https://www.nrc.nl)
 
----
+## :material-lightbulb-on-outline: Why It Matters
 
-## :material-lightbulb-on-outline: Wat betekent dit?
+The report confirms what Woo requesters already know: 🐌 **deadlines are exceeded**. But it also shows that improvement is possible.
 
-Het rapport bevestigt wat Woo-verzoekers al langer weten: 🐌 **termijnen worden overschreden**. Maar het laat ook zien dat verbetering mogelijk is.
-
-:material-chevron-right: Wij blijven dit kritisch volgen — en werken aan oplossingen om de informatiehuishouding van de overheid structureel te verbeteren.
+:material-chevron-right: We will continue to monitor this critically — and work on solutions to improve the government's information management structurally.
