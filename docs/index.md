@@ -25,7 +25,7 @@ Our research helps improve information culture and practices within government, 
 The OpenGov Lab is an [Innovation Center for Artificial Intelligence (ICAI)](https://icai.ai), and a collaboration between the [University of Amsterdam](https://uva.nl/en) and the [Rijksorganisatie voor Informatiehuishouding (RvIHH)](https://www.rvihh.nl/).
 
 Our team currently consists of three dual PhD candidates employed at RvIHH, and plans to expand to five in its first year. 
-Day-to-day operations are led by lab manager Dr. David Graus ((ILLC)[https://www.illc.uva.nl/]). Scientific co-directors are Dr. ir. Jaap Kamps ((ILLC)[https://www.illc.uva.nl/]) and Dr. Maarten Marx ((IRLab)[https://irlab.science.uva.nl/]).  
+Day-to-day operations are led by lab manager Dr. David Graus ([ILLC](https://www.illc.uva.nl/)). Scientific co-directors are Dr. ir. Jaap Kamps ([ILLC](https://www.illc.uva.nl/)) and Dr. Maarten Marx ([IRLab](https://irlab.science.uva.nl/)).  
 
 :fontawesome-solid-people-group: [Meet the team](team.md)
 
