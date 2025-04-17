@@ -1,4 +1,3 @@
-docs/blog/posts/opengov-lab-ecir-2025.md
 ---
 date:
   created: 2025-04-10
