@@ -12,14 +12,14 @@ image: https://wooverheid.nl/wp-content/uploads/2025/04/IMG_9159.jpg?w=1024
 
 # OpenGov Lab at ECIR 2025
 
-A large part of the young OpenGov ICAI lab team presented their work at the European Conference on Information Retrieval (ECIR) in Lucca, Italy.  
+A large part of the young ICAI OpenGov Lab team presented their work at the [European Conference on Information Retrieval](https://ecir2025.eu/) (ECIR) in Lucca, Italy.  
 Naturally, the trip also included the forging of new ideas over Italian food 🍝.
 
 ![OpenGov group photo at ECIR 2025](https://wooverheid.nl/wp-content/uploads/2025/04/whatsapp-image-2025-04-10-at-18.09.36.jpeg?w=768){ loading=lazy }
 
-<!-- more -->
-
 **Pictured from left to right**: Pepijn van Wijk, David Graus, Maik Larooij, Jaap Kamps, Damiaan Reijnaers, Jan Hutter
+
+<!-- more -->
 
 ## :material-presentation: Presentations
 
@@ -43,7 +43,7 @@ a search interface over council meeting video transcripts.
     van Wijk, P., Marx, M. (2025). *Spoken Question Answering on Municipal Council Meetings*. In: Hauff, C., et al. *Advances in Information Retrieval. ECIR 2025*. Lecture Notes in Computer Science, vol 15576. Springer, Cham. [DOI: 10.1007/978-3-031-88720-8_8](https://doi.org/10.1007/978-3-031-88720-8_8)
 
 ### Damiaan Reijnaers  
-At the Search Futures workshop, Damiaan sketched a vision for embedding contextual information in rulings — making it possible to search permit documents, for instance, by terrace size.
+At the [2nd Search Futures](https://searchfutures.github.io/) workshop, Damiaan sketched a vision for embedding contextual information in rulings — making it possible to search permit documents, for instance, by terrace size.
 
 ![Damiaan Reijnaers presents his Search Future](https://wooverheid.nl/wp-content/uploads/2025/04/whatsapp-image-2025-04-10-at-18.19.16.jpeg?w=768){ loading=lazy }
 
