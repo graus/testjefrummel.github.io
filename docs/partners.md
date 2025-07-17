@@ -6,22 +6,13 @@ title_style: alt
 
 <div class="partner-logos" markdown>
 
-![Image title](assets/logo/uvalogo_regular_compact_p_en.svg#only-light)
-![Image title](assets/logo/uvalogo_regular_compact_d_en.svg#only-dark)
+![Logo UvA](assets/logo/uvalogo_regular_compact_p_en.svg#only-light)
+![Logo UvA](assets/logo/uvalogo_regular_compact_d_en.svg#only-dark)
 
-![alt text](assets/logo/rijksoverheid.svg)
+![Logo RvIHH](assets/logo/rvihh_black.svg#only-light)
+![Logo RvIHH](assets/logo/rvihh_white.svg#only-dark)
 
-![Image title](assets/logo/ICAI_Logo_Black.png#only-light)
-![Image title](assets/logo/ICAI_Logo_White.png#only-dark)
-
-
-![alt text](assets/logo/rijksoverheid.svg)
-
-
-![Image title](assets/logo/ICAI_Logo_Black.png#only-light)
-![Image title](assets/logo/ICAI_Logo_White.png#only-dark)
-
-![Image title](assets/logo/uvalogo_regular_compact_p_en.svg#only-light)
-![Image title](assets/logo/uvalogo_regular_compact_d_en.svg#only-dark)
+![Logo ICAI](assets/logo/ICAI_Logo_Black.png#only-light)
+![Logo ICAI](assets/logo/ICAI_Logo_White.png#only-dark)
 
 </div>
